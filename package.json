@@ -1,0 +1,13 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "Social media app where you can add people, post, likes the post, comment on post etc",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "",
+    "start":""
+  },
+  "author": "",
+  "license": "ISC"
+}
