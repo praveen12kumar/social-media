@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon backend/server.js",
-    "start":"node backend/server.js"
+    "start": "node backend/server.js"
   },
   "keywords": [
     "javascript",
@@ -14,5 +14,8 @@
     "full stack"
   ],
   "author": "Praveen kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
 }
