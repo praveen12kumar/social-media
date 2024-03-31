@@ -5,9 +5,14 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "dev": "",
-    "start":""
+    "dev": "nodemon backend/server.js",
+    "start":"node backend/server.js"
   },
-  "author": "",
+  "keywords": [
+    "javascript",
+    "social media",
+    "full stack"
+  ],
+  "author": "Praveen kumar",
   "license": "ISC"
 }
